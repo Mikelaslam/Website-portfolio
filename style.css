@@ -1,13 +1,50 @@
-<head>
-<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Audiowide">
-<style>
-body {
-  font-family: "Audiowide", sans-serif;
-}
-</style>
-</head>
 
 body {
-  background: rgb
-  color: var();
+
+  font-size: 70px
+  color: #37747b3;
 }
+
+body {
+  
+  font-style: normal;
+}
+#intro{
+  color: rgb(113, 130, 131);
+  font: 500;
+}
+#hello{
+  color: green;
+  font-family: "Times New Roman", Times, serif;
+  font-size: large;
+}
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;}
+  #skills{
+    color: rgba(21, 77, 199, 0.781);
+  
+
+  }
+  #exp{color: rgb(85, 104, 47);
+  font-size: larger;}
+  #alto{color: rgba(179, 17, 17, 0.548);
+  font-size: large;}
+  #shell{
+    font-size: larger;
+    color: green;
+  }
+  
+    body {
+
+  background-color: rgb(185, 185, 216);
+}
+  #cont{
+    color: chartreuse;
+  }
+  #profile{
+    border-radius: 50%;
+    fill: rgb(71, 158, 28);
+  }
